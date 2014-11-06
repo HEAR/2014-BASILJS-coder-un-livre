@@ -18,6 +18,8 @@ Les projets réalisés seront agrégés au sein d’une édition.
 
 Accès sur le contenu (pas de statistiques sur le nombre de lettres)
 
+Pour les expressions régulières, elles seront archivées sur le [wiki du projet](https://github.com/HEAR/BASILJS-coder-un-livre/wiki).
+
 Objectifs :
 
 - enrichir le texte
