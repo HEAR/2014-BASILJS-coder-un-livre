@@ -1,7 +1,7 @@
 # Clara - En attendant Godot #
 
 > Mon texte est le début de la pièce de théâtre En Attendant Godot de Samuel Beckett. 
-Le premier traitement du texte consiste à repérer toutes les fois que la suite de lettres g - o - d - o - t apparaît dans le texte, sans tenir compte de la casse.
+Le premier traitement du texte consiste à repérer toutes les fois que la suite de lettres g - o - d - o - t apparaît dans le texte, sans tenir compte de la casse. <
 
 Il faut replacer le ficher de script godot.jsx dans le dossier user de BasilJS (dans in design, dans la palette de script, faire apparaître dans le finder le dossier script et copier le fichier dedans).
 
