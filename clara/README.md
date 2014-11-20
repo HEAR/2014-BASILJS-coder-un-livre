@@ -1,7 +1,7 @@
 # Clara - En attendant Godot #
 
 > Mon texte est le début de la pièce de théâtre En Attendant Godot de Samuel Beckett. 
-Le premier traitement du texte consiste à repérer toutes les fois que la suite de lettres g - o - d - o - t apparaît dans le texte, sans tenir compte de la casse. <
+Le premier traitement du texte consiste à repérer toutes les fois que la suite de lettres g - o - d - o - t apparaît dans le texte, sans tenir compte de la casse.
 
 Il faut replacer le ficher de script godot.jsx dans le dossier user de BasilJS (dans in design, dans la palette de script, faire apparaître dans le finder le dossier script et copier le fichier dedans).
 
@@ -11,7 +11,7 @@ Créer un style de paragraphe pour le texte courant. Au sein de ce style de para
 
 ```~h+[godtGODT]+~h```
 
-![Fenêtre : Style GREP En attendant Godot](style-GREP-godot.png)
+
 
 Ce qui veut dire que l'on cherche tous les caractères g-o-d-t-G-O-D-T qui sont encadrés par le caractère caché indesign « fin de style imbriqué ».
 
