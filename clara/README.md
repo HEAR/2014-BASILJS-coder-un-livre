@@ -9,9 +9,9 @@ Dans inDesign créer un style de caractère « godot », qui correspondra au sty
 
 Créer un style de paragraphe pour le texte courant. Au sein de ce style de paragraphe créer un style GREP qui permettra d'appliquer le style de caractère « godot » précédemment créé. On cherchera les caractères suivants : 
 
-```~h+[godtGODT]+~h```
+`~h+[godtGODT]+~h`
 
-
+![Fenêtre : Style GREP En attendant Godot](style-GREP-godot.png)
 
 Ce qui veut dire que l'on cherche tous les caractères g-o-d-t-G-O-D-T qui sont encadrés par le caractère caché indesign « fin de style imbriqué ».
 
