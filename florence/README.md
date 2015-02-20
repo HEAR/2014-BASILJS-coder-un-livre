@@ -1,0 +1,4 @@
+# Florence #
+
+>Pour coder un livre, j'ai eu assez tardivement mon protocole en tête et il n'est pas encore très bien établit. Mes 10 pages sont les dernières 10 pages du dernier tome de l'encyclopédie universalis. Ayant choisis le dernier des derniers et étant donné que depuis 2012 l'encyclopédie n'est plus édité je trouvais intéressant de travailler avec cette symbolique. Je vais donc faire une sorte de typologie de l'effacement ou par moment le texte de certaines définitions s'efface. Je jouerais ainsi avec des mises en avant de certaines informations et la question reste là, je ne sais pas quoi effacer. Je pense pour le moment effacer des éléments qui me semble moins importants à la compréhension du terme définit et mettre ainsi en avant ce que je trouve le plus intéressant. 
+Pour le moment je vais traiter ça manuellement plutôt qu'avec du code, pour mettre bien en place mon idée. 

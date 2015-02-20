@@ -27,8 +27,8 @@ Objectifs :
 - lecture transversale
 
 Bibliographie/sitographie :
-- https://vimeo.com/51182689
-- http://basiljs.ch/
+- [Video Basiljs](https://vimeo.com/51182689)
+- [BasilJS](http://basiljs.ch/)
 
 Calendrier et méthodologie :
 
@@ -36,3 +36,12 @@ Calendrier et méthodologie :
 - Jeudi 16 octobre 2014 : choix définitif du texte et premières propositions
 - Jeudi 23 octobre 2014 : premières propositions, esquisses sous forme papier
 - Jeudi 30 octobre 2014 : rendus intermédiaires à présenter sur table 
+
+Quelques liens :
+
+- http://www.indiscripts.com/post/2013/05/indesign-scripting-forum-roundup-4#hd3sb1)
+- http://www.mti.epita.fr/blogs/2011/01/20/tutorial-indesign-scripting/
+- https://a248.e.akamai.net/f/1953/8974/2h/wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/products/indesign/pdfs/InDesignCS3_ScriptingGuide_JS.pdf
+- http://partners.adobe.com/public/developer/en/indesign/sdk/WorkingWithDocumentsJS.pdf
+- http://wwwimages.adobe.com/content/dam/Adobe/en/products/indesign/pdfs/InDesignCS5_ScriptingGuide_JS.pdf
+- http://wwwimages.adobe.com/content/dam/Adobe/en/products/indesign/pdfs/JavaScriptToolsGuide_CS5.pdf
